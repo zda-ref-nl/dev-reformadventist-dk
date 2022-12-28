@@ -1,0 +1,18 @@
+body {
+  background-color: #f8f4f0 !important;
+  color: #222 !important;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important; }
+  body header {
+    background-image: url(/images/hero.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-bottom: 100px; }
+  body .ra-base-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #fff; }
+    body .ra-base-container div {
+      padding: 40px;
+      border: 1px solid #ccc; }
