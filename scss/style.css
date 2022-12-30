@@ -7,8 +7,12 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-color: rgba(255, 255, 255, 0.56);
+    background-blend-mode: color;
     height: 600px;
     margin-bottom: 100px; }
+    body header .ra-logo img {
+      max-width: 80vw; }
   body .ra-base-container {
     max-width: 1200px;
     margin: 0 auto;
